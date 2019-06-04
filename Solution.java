@@ -51,9 +51,9 @@ public class Solution {
 		 * changed.
 		 * 
 		 * Thus, if the number of elements in ArrayList "valuesOfPairs" is equal to 
-     * the number of elements per array, then the maximum possible number of 
-     * "pairwise disjoint beautiful pairs" is equal to the number of elements per array 
-     * minus one.
+     		 * the number of elements per array, then the maximum possible number of 
+                 * "pairwise disjoint beautiful pairs" is equal to the number of elements per array 
+                 * minus one.
 		 * 
 		 * Otherwise the maximum possible number of "pairwise disjoint beautiful pairs"
 		 * is equal to number of elements in ArrayList "valuesOfPairs" plus one.
